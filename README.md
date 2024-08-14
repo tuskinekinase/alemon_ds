@@ -23,7 +23,7 @@ https://github.com/stakira/OpenUtau
 
 #### Track Setup
 
-1.  In OpenUtau's track view, select the installed Shisakune Demo DiffSinger model as the active singer.
+1.  In OpenUtau's track view, select the installed Alemon DiffSinger model as the active singer.
 2.  Select DIFFS as the active phonemizer. Alemon DiffSinger uses a custom dictionary that comes with the model package, which is only supported by DIFFS.
 3.  Select DiffSinger as the active engine.
 
