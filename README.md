@@ -13,17 +13,25 @@ https://www.openutau.com/
 
 https://github.com/stakira/OpenUtau
 
+## User Manual
+
 #### Installation
 
 1.  Before installation, please ensure that the lastest NSF-HiFiGAN vocoder for DiffSinger is already installed in OpenUtau. About this vocoder: https://github.com/openvpi/vocoders
 2.  Download the .zip files in the Release page of this repository.
 3.  Drag the .zip file into the main UI window of OpenUtau, and finish installation according to prompts.
 
-#### User Manual
+#### Track Setup
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  In OpenUtau's track view, select the installed Shisakune Demo DiffSinger model as the active singer.
+2.  Select DIFFS as the active phonemizer. Shisakune Demo DiffSinger uses a custom dictionary that comes with the model package, which is only supported by DIFFS.
+3.  Select DiffSinger as the active engine.
+
+#### Tuning
+
+
+#### Phoneme Guide
+
 
 #### Contribution
 
