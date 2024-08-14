@@ -58,7 +58,7 @@ The default language is Mandarin Chinese.
 Recommended lyrics input method:
 - Chinese: Pinyin (recommended), Chinese characters
 - English: English spelling. Note: When English and Pinyin spelling conflict, Pinyin takes precedence. Use EN+English spelling to call out English phonemes. (Example: sing, ENsong)
-> In versions 3.1 and later, some English words support multiple pronunciations, which can be called up through the (1) suffix. (Example: record(1))
+> In versions 2.1 and later, some English words support multiple pronunciations, which can be called up through the (1) suffix. (Example: record(1))
 - Japanese (not supported in some versions): Hiragana
 - French (not supported in some versions): FR+French spelling (Example: FRchanter)
 
