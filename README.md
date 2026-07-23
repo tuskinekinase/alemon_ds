@@ -125,7 +125,7 @@ Mandarin Chinese
 |	s	|	zh/ja/en/fr	|	s	|
 |	sh	|	zh	|	sh	|
 |	t	|	zh	|	t	|
-|	w	|	zh	|	w	|
+| w | zh/ja | w |
 |	x	|	zh	|	x	|
 |	y	|	zh	|	y	|
 |	z	|	zh	|	z	|
@@ -139,10 +139,10 @@ English (GenAm)
 |	AH	|	en	|	ʌ	|
 |	AO	|	en	|	ɔ	|
 |	AW	|	en	|	aʊ	|
-|	AX	|	en	|	ɚ	|
+|	AX	|	en	|	ə	|
 |	AY	|	en	|	aɪ	|
 |	EH	|	en	|	ɛ	|
-|	ER	|	en	|	ər	|
+|	ER	|	en	|	ɚ	|
 |	EY	|	en	|	eɪ	|
 |	IH	|	en	|	ɪ	|
 |	IY	|	en	|	i	|
@@ -170,6 +170,7 @@ English (GenAm)
 |	T	|	en	|	t	|
 |	TH	|	en	|	θ	|
 |	TR	|	en	|	tr	|
+|  v  |  en  |  v  |
 |	W	|	en	|	w	|
 |	Y	|	en	|	j	|
 |	Z	|	en	|	z	|
@@ -195,6 +196,7 @@ Japanese
 |	n	|	zh/ja	|	n (consonant)    |
 |	p1	|	ja	|	p	|
 |	t1	|	ja	|	t	|
+| w | zh/ja | w |
 |	V	|	ja	|	v	|
 |	y1	|	ja	|	y	|
 |	z1	|	ja	|	z	|
