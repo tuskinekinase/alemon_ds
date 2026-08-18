@@ -1,5 +1,7 @@
 # Alemon DiffSinger
 
+English | [中文](https://github.com/tuskinekinase/alemon_ds/blob/main/README_zh.md)
+
 ## Introduction
 Alemon (also known as: アレモン, 柠檬君) DiffSinger is a high-quality AI singing voice synthesizing model based on DiffSinger. This model uses OpenUtau as renderer.
 
