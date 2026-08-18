@@ -1,5 +1,7 @@
 # Alemon（柠檬君）DiffSinger
 
+[English](https://github.com/tuskinekinase/alemon_ds/blob/main/README.md) | 中文
+
 ## 介绍
 Alemon（柠檬君）DiffSinger是基于DiffSinger歌声合成技术的高质量AI歌声合成模型。可配合OpenUtau使用。
 
